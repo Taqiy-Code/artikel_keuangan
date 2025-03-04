@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "Tips Mengelola Keuangan",
         "image": "https://doyanayam.com/wp-content/uploads/2021/10/6-Alasan-Pentingnya-Manajemen-Keuangan-Keluarga-1.jpg",
         "description": "Pelajari cara mengatur keuangan dengan lebih baik agar masa depan lebih stabil.",
@@ -10,6 +11,7 @@
         "content": "Mengelola keuangan dengan baik merupakan langkah penting untuk mencapai kestabilan finansial. Beberapa tips yang bisa dilakukan adalah:\n\n1. **Buat Anggaran Bulanan** - Catat semua pemasukan dan pengeluaran agar bisa mengontrol keuangan.\n2. **Tentukan Prioritas Pengeluaran** - Dahulukan kebutuhan utama sebelum keinginan.\n3. **Sisihkan Dana Darurat** - Minimal 3-6 bulan pengeluaran harus disiapkan untuk keadaan tak terduga.\n4. **Investasi untuk Masa Depan** - Jangan hanya menabung, tapi mulai berinvestasi sesuai profil risiko.\n\nDengan perencanaan yang matang, Anda dapat mencapai kestabilan finansial yang lebih baik."
     },
     {
+        "id": 2,
         "title": "Strategi Investasi Jangka Panjang",
         "image": "https://www.bhuanajaya.desa.id/wp-content/uploads/2024/05/Saham-Dan-Obligasi_-Investasi-Jangka-Panjang-2.jpg",
         "description": "Strategi investasi yang bisa membantu Anda mencapai kebebasan finansial.",
@@ -20,6 +22,7 @@
         "content": "Investasi jangka panjang merupakan strategi yang banyak digunakan oleh investor sukses. Beberapa strategi yang dapat diterapkan adalah:\n\n1. **Pahami Profil Risiko** - Pilih instrumen investasi sesuai dengan toleransi risiko.\n2. **Diversifikasi Portofolio** - Jangan menaruh semua dana di satu jenis investasi.\n3. **Berinvestasi di Saham dan Obligasi** - Saham untuk pertumbuhan, obligasi untuk stabilitas.\n4. **Manfaatkan Compound Interest** - Semakin lama Anda berinvestasi, semakin besar keuntungannya.\n\nDengan strategi ini, Anda bisa membangun aset secara konsisten dan mencapai kebebasan finansial."
     },
     {
+        "id": 3,
         "title": "https://storage.googleapis.com/sahabat-pegadaian-asset-prd/migrated-media/2023--10--manfaat-pasar-modal-bagi-investor.webp",
         "image": "https://source.unsplash.com/400x250/?stockmarket",
         "description": "Panduan bagi pemula untuk memahami mekanisme pasar saham.",
@@ -30,6 +33,7 @@
         "content": "Pasar saham adalah tempat di mana saham perusahaan diperjualbelikan. Berikut beberapa hal yang perlu diketahui oleh pemula:\n\n1. **Apa Itu Saham?** - Saham adalah bukti kepemilikan terhadap suatu perusahaan.\n2. **Bagaimana Saham Diperdagangkan?** - Saham diperdagangkan melalui bursa efek seperti BEI.\n3. **Cara Membeli Saham** - Membuka akun sekuritas dan memilih saham berdasarkan analisis fundamental.\n4. **Keuntungan dari Saham** - Melalui capital gain dan dividen.\n\nDengan memahami dasar-dasar pasar saham, Anda bisa mulai berinvestasi dengan lebih percaya diri."
     },
     {
+        "id": 4,
         "title": "Pentingnya Dana Darurat",
         "image": "https://www.megasyariah.co.id/bms-new/edukasi-tips/dana_darurat.png",
         "description": "Dana darurat sangat penting untuk menghadapi situasi tak terduga seperti kehilangan pekerjaan atau keadaan darurat medis.",
@@ -40,6 +44,7 @@
         "content": "Dana darurat adalah uang yang disiapkan untuk menghadapi kejadian tak terduga. Berikut cara mengelola dana darurat:\n\n1. **Tentukan Besarnya Dana** - Idealnya 3-6 bulan pengeluaran bulanan.\n2. **Pisahkan dari Rekening Utama** - Gunakan rekening khusus agar tidak mudah tergoda untuk menggunakannya.\n3. **Tambahkan Secara Bertahap** - Mulai dari jumlah kecil dan tingkatkan secara berkala.\n\nDengan memiliki dana darurat, Anda akan lebih siap menghadapi risiko finansial."
     },
     {
+        "id": 5,
         "title": "Memahami Obligasi sebagai Instrumen Investasi",
         "image": "https://cdn0-production-images-kly.akamaized.net/8zPMXW0DGA9eQqERNHuCPaAmR-c=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5114412/original/012063500_1738231847-1738220482597_arti-obligasi.jpg",
         "description": "Obligasi adalah salah satu instrumen investasi yang stabil dan aman.",
@@ -50,6 +55,7 @@
         "content": "Obligasi adalah surat utang yang diterbitkan oleh perusahaan atau pemerintah. Berikut keuntungan dan risikonya:\n\n1. **Keuntungan Obligasi** - Stabilitas lebih tinggi dibandingkan saham, pendapatan tetap dari kupon.\n2. **Jenis Obligasi** - Obligasi pemerintah, obligasi korporasi, obligasi ritel.\n3. **Cara Membeli Obligasi** - Bisa dibeli melalui bank atau platform investasi online.\n\nObligasi adalah pilihan investasi yang cocok bagi mereka yang ingin keamanan lebih tinggi dalam investasi mereka."
     },
     {
+        "id": 6,
         "title": "Cara Efektif Menabung untuk Masa Depan",
         "image": "https://apiv2.loanmarket.co.id//img/news/12/08/TGY7dX5Uqp-susah-menabung-simak-tips-tips-berikut-ini-dan-apa-saja-kendalanya.jpg",
         "description": "Menabung dengan strategi yang benar dapat membantu Anda mencapai tujuan keuangan dengan lebih cepat.",
@@ -60,6 +66,7 @@
         "content": "Menabung bukan hanya soal menyisihkan uang, tetapi juga tentang strategi yang efektif. Beberapa tips:\n\n1. **Gunakan Metode 50/30/20** - 50% kebutuhan, 30% keinginan, 20% tabungan.\n2. **Otomatisasi Tabungan** - Gunakan fitur autodebet untuk menyisihkan dana secara rutin.\n3. **Tentukan Tujuan Tabungan** - Untuk pendidikan, rumah, atau dana pensiun.\n\nDengan perencanaan yang baik, menabung menjadi lebih mudah dan efektif."
     },
     {
+        "id": 7,
         "title": "Mengenal Cryptocurrency dan Blockchain",
         "image": "https://www.sampoernauniversity.ac.id/uploads/beautiful-cryptocurrwncy-concept_11zon-scaled.jpg",
         "description": "Teknologi blockchain telah mengubah cara transaksi digital, pahami lebih lanjut di artikel ini.",
@@ -70,6 +77,7 @@
         "content": "Cryptocurrency seperti Bitcoin dan Ethereum semakin populer. Berikut dasar-dasarnya:\n\n1. **Apa Itu Blockchain?** - Teknologi di balik cryptocurrency yang mencatat transaksi secara transparan.\n2. **Jenis-Jenis Cryptocurrency** - Bitcoin, Ethereum, Dogecoin, dll.\n3. **Keuntungan dan Risiko** - Potensi keuntungan tinggi, tetapi juga fluktuatif.\n\nPahami lebih lanjut sebelum mulai berinvestasi di cryptocurrency."
     },
     {
+        "id": 8,
         "title": "Manfaat Asuransi Jiwa dan Kesehatan",
         "image": "https://www.allianz.co.id/explore/asuransi-jiwa-atau-asuransi-kesehatan-mana-yang-harus-didahulukan/_jcr_content/root/stage/stageimage.img.82.3360.png/1625056817833/asuransi-jiwa-atau-asuransi-kesehatan,-mana-yang-harus-didahulukan-1.png",
         "description": "Melindungi diri dan keluarga dengan asuransi adalah langkah penting dalam perencanaan keuangan.",
